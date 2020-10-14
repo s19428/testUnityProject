@@ -528,7 +528,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 1000
   jumpForce: 500
-  rb: {fileID: 0}
+  rb: {fileID: 346343246}
   xDisplacement: 0
 --- !u!1 &1657056424
 GameObject:
